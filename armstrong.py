@@ -1,5 +1,5 @@
 sum = 0
-num=int(input())
+num = 153
 temp = num
 while temp > 0:
    digit = temp % 10
